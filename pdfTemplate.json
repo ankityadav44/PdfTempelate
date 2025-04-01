@@ -1,7 +1,7 @@
 {
   "email": {
     "subject": "Order Confirmation - {{name}}",
-    "body": "<html><body>"
+    "body": 
             + "<h1>Dear {{name}},</h1>"
             + "<p>Your order has been confirmed!</p>"
             + "<p><b>Order Details:</b></p>"
@@ -12,7 +12,7 @@
             + "</ul>"
             + "<p>Thank you for shopping with us!</p>"
             + "<p>If you have any questions, please don't hesitate to <a href='mailto:support@example.com'>contact us</a>.</p>"
-            + "<footer><p>Best regards,</p><p>The Company Team</p></footer>"
-            + "</body></html>"
+            + "<p>Best regards,</p><p>The Company Team</p>
+            + "
   }
 }
