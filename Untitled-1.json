@@ -1,0 +1,10 @@
+{
+    "content": {
+      "title": "Sample Title",
+      "body": "This is the body of the content.",
+      "user": {
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      }
+    }
+  }
